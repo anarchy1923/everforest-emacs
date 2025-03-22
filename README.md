@@ -30,7 +30,7 @@ for stock emacs.
 
 ```elisp
 (package! everforest
-  :recipe (:repo "https://git.sr.ht/~theorytoe/everforest-theme"))
+  :recipe (:repo "https://github.com/Theory-of-Everything/everforest-emacs.git"))
   
 (use-package! 'everforest')
 
